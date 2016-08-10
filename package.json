@@ -1,0 +1,21 @@
+{
+  "name": "auto-update-redis-share",
+  "version": "0.0.1",
+  "description": "auto update redis share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "WayneLiang",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.10.0",
+    "request": "^2.74.0",
+    "simple-git": "^1.45.0",
+    "weixinbot": "^0.5.0",
+    "xml2json": "^0.9.1"
+  }
+}
